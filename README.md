@@ -79,13 +79,3 @@ This framework is specifically designed for river-focused modeling, including:
 
 ---
 
-## **📞 Contact**  
-
-For questions or collaboration, feel free to reach out:  
-- **Name**: Dr. Venkatesh Budamala 
-- **Email**: bvenkatesh@iisc.ac.in 
-- **GitHub**: [@VenkateshBudamala](https://github.com/VenkateshBudamala)  
-
----
-
-This version provides simple, clear instructions for new users while emphasizing ease of use and practical applications. Let me know if you’d like further changes!
