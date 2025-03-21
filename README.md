@@ -1,10 +1,3 @@
-# Hydro-ML-Emulator
-Unifying Hydrologic and Hydraulic Models Using a Machine Learning-Based Emulator
-
-Here’s a simpler, streamlined version for your GitHub repository that provides clear guidelines and emphasizes usability:  
-
----
-
 # 🌊 **Hydro-ML Emulator**  
 **Unifying Hydrologic and Hydraulic Models Using a Machine Learning-Based Emulator**  
 
@@ -85,9 +78,9 @@ This framework is ideal for:
 ## **📞 Contact**  
 
 For questions or collaboration, feel free to reach out:  
-- **Name**: [Your Name]  
-- **Email**: [YourEmail@example.com]  
-- **GitHub**: [@yourusername](https://github.com/yourusername)  
+- **Name**: Dr. Venkatesh Budamala 
+- **Email**: bvenkatesh@iisc.ac.in 
+- **GitHub**: [@VenkateshBudamala](https://github.com/VenkateshBudamala)  
 
 ---
 
