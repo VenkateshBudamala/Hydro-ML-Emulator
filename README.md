@@ -18,7 +18,7 @@ Note: The framework can also be adapted for any physical model optimization by i
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/Hydro-ML-Emulator.git
+git clone https://github.com/VenkateshBudamala/Hydro-ML-Emulator.git
 cd Hydro-ML-Emulator
 ```
 
