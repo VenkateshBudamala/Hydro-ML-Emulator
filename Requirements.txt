@@ -1,0 +1,33 @@
+# General purpose libraries
+numpy
+pandas
+matplotlib
+time  # Built-in, no installation required
+os  # Built-in, no installation required
+shutil  # Built-in, no installation required
+
+# Scikit-learn for machine learning utilities
+scikit-learn
+
+# XGBoost for gradient boosting
+xgboost
+
+# HydroEval for hydrological model evaluation
+hydroeval
+
+# GeneticAlgorithm for optimization
+geneticalgorithm
+
+# pywin32 for COM support (win32com)
+pywin32
+
+# pydsstools for handling HEC-DSS files
+pydsstools
+
+# Xarray for working with labeled multi-dimensional arrays
+xarray
+
+# PySUMMA for modeling support
+pysumma
+
+# pickle is built-in, no installation required
