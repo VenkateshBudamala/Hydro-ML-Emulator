@@ -77,7 +77,6 @@ This framework is specifically designed for river-focused modeling, including:
 - Catchment Hydrology: Simulate water flow in river catchments.
 - Hydrodynamic Modeling: Analyze water levels and velocities in river networks.
 
-Note: It can be useful for any physcial model optimization, by including your own physical model simulator in Functions.py
 ---
 
 ## **📞 Contact**  
