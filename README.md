@@ -29,7 +29,7 @@ pip install -r Requirements.txt
 ```
 
 ### **3. Set Your Inputs**  
-Update `Input_File.py` to define the parameters for your simulation (e.g., rainfall, flow rates, etc.).  
+Update `Input_File.py` to define the parameters for your optimization.  
 This is the only file you need to modify.  
 
 ### **4. Run the Emulator**  
