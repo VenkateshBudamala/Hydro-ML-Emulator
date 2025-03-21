@@ -11,6 +11,7 @@ This project provides a **unified framework** to integrate and optimize hydrolog
 
 The framework simplifies the calibration and analysis of diverse models like **SWAT**, **RAVEN**, **SUMMA**, and **HEC-RAS**, improving efficiency and reducing computational time.
 
+Note: The framework can also be adapted for any physical model optimization by including your own physical model simulator in Functions.py.
 ---
 
 ## **📋 Quick Start Guide**  
@@ -24,7 +25,7 @@ cd Hydro-ML-Emulator
 ### **2. Install Dependencies**  
 Ensure Python 3.8+ is installed. Then run:  
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
 ### **3. Set Your Inputs**  
@@ -51,7 +52,7 @@ Hydro-ML-Emulator/
 ├── Main_Setup.py       # Main execution file
 ├── Input_File.py       # Customizable input parameters
 ├── Functions.py        # Core utility functions
-├── requirements.txt    # Python dependencies
+├── Requirements.txt    # Python dependencies
 ├── outputs/            # Auto-generated results
 └── README.md           # Project documentation
 ```
@@ -68,11 +69,15 @@ Hydro-ML-Emulator/
 
 ## **💡 Applications**  
 
-This framework is ideal for:  
-- Flood forecasting and mapping.  
-- Hydrologic and hydraulic model calibration.  
-- Urban flood management.  
+This framework is specifically designed for river-focused modeling, including:
 
+- Streamflow Simulation: Predict river flow under varying hydrological conditions.
+- Flood Forecasting: Model and predict flood inundation along river systems.
+- Reservoir Management: Optimize reservoir operations and releases.
+- Catchment Hydrology: Simulate water flow in river catchments.
+- Hydrodynamic Modeling: Analyze water levels and velocities in river networks.
+
+Note: It can be useful for any physcial model optimization, by including your own physical model simulator in Functions.py
 ---
 
 ## **📞 Contact**  
